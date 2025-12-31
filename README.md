@@ -8,9 +8,9 @@ I'm currently pursuing my Master's degree with a focus on AI and Big Data, build
 
 When I'm not coding or studying, I'm usually learning something new, working on side projects, or sharing what I've learned with others. I believe in continuous growth and the power of open collaboration. 
 
-🔍 **Currently seeking:** Internships or work-study opportunities where I can contribute, learn, and grow alongside talented teams. 
+🔍 **Currently seeking:** apprenticeship or work-study opportunities where I can contribute, learn, and grow alongside talented teams. 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -40,39 +40,21 @@ Data Science • Machine Learning • Large Language Models (LLMs) • Retrieval
 - MLOps best practices:  experiment tracking, model versioning, and deployment automation
 - Advanced data engineering techniques for scalable data pipelines
 
-## 🚀 Featured Projects
 
-> Coming soon! I'm working on several projects involving machine learning, LLM applications, and data pipelines.  Stay tuned! 
-
-<!-- Example placeholders for future projects: 
-- **[Project Name](#)** - Brief description of what it does and tech used
-- **[Another Project](#)** - Brief description
--->
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hachemboudoukha&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hachemboudoukha&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp. com/? user=hachemboudoukha&theme=radical&hide_border=true)
-
-</div>
 
 ## 📫 Let's Connect
 
 I'm always open to interesting conversations, collaboration opportunities, or just a friendly chat about AI and data! 
 
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](#) _(update with your LinkedIn URL)_
-- 📧 **Email:** your.email@example.com _(update with your email)_
+-  **LinkedIn:** [linkedin.com/in/hachem-boudoukha](#) 
+- 📧 **Email:** hachemboudoukha@gamil.com
+- 
 - 💬 Feel free to reach out if you have a project idea, internship opportunity, or just want to connect!
 
 ---
 
 <div align="center">
   
-_"The best way to predict the future is to create it."_ 🚀
+_"The best way to predict the future is to create it."_ 
 
 </div>
