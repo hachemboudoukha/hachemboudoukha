@@ -7,7 +7,6 @@ I have a solid background in **computer science, data engineering, and software 
 
 When I'm not coding or studying, I'm usually learning something new, working on side projects, or sharing what I've learned with others. I believe in continuous growth and the power of open collaboration. 
 
-🔍 **Currently seeking:** apprenticeship or work-study opportunities where I can contribute, learn, and grow alongside talented teams. 
 
 
 
